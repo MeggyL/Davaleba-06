@@ -12,13 +12,14 @@
 }
 .article {
 	display: inline-block;
+	padding-left: 240px;
 }
 div h3 {
 	color: #171717;
 	font-size: 32px;
 	width: 197px;
 	height:38px;
-	margin-bottom: 60px;
+	margin-bottom: 60px;	
 }
 div p {
 	color: #171717;
@@ -31,7 +32,7 @@ div p {
 	font-size: 16px;
 	width: 442px;
 	height: 21px;
-	padding-bottom: 937px;
+	margin-bottom: 22px;
 }
 span {
 	color: #0A22F4;
@@ -40,4 +41,5 @@ span {
 	display: inline-block;
 	margin-top: 400px;
 	width: 707px;
+	padding-right: 363px;
 }
