@@ -56,3 +56,28 @@ p {
 h3 {
 	font-family: 'HelveticaNeue';
 }
+=======
+.photo	{
+	display: inline-block;
+	width: 707px;
+	height: 707px;
+	padding-left: 250px;
+	margin-top: 182px;
+	border-radius: 15px;
+}
+.text {
+	display: inline-block;
+	width: 463px;
+	height: 385px;
+	color: #171717;
+}
+div h3 {
+	margin-top: 394px;
+	margin-bottom: 60px;
+	font-size: 32px;
+	color: #171717;
+}	
+.text p {
+	color: #171717;
+	font-size: 16px;
+}
