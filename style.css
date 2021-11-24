@@ -1,0 +1,49 @@
+/*reset css*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 100%;
+}
+.container {
+	max-width: 1920px;
+	width: 100%;
+	margin: 10px auto;
+}
+.article {
+	display: inline-block;
+	margin-left: 240px;
+	width: 463px;
+	height: 240px;
+}
+div h3 {
+	color: #171717;
+	font-size: 32px;
+	width: 197px;
+	height:38px;
+	margin-bottom: 60px;	
+}
+div p {
+	color: #171717;
+	font-size: 16px;
+	width: 463px;
+	height:385px;
+	padding-top: 60px;
+}
+.info {
+	color: #171717;
+	font-size: 16px;
+	width: 463px;
+	height: 99px;
+	margin-bottom: 22px;
+}
+span {
+	color: #0A22F4;
+}
+.image {
+	display: inline-block;
+	margin-top: 400px;
+	width: 707px;
+	padding-right: 363px;
+	padding-bottom: 394px;
+}
