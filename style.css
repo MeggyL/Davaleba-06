@@ -24,4 +24,8 @@ div h3 {
 	margin-bottom: 60px;
 	font-size: 32px;
 	color: #171717;
+	font-family: 'HelveticaNeue';
 }	
+.text p {
+	font-family: 'HelveticaNeue LT 55 Roman';
+}
