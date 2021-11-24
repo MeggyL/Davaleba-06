@@ -12,7 +12,9 @@
 }
 .article {
 	display: inline-block;
-	padding-left: 240px;
+	margin-left: 240px;
+	width: 463px;
+	height: 240px;
 }
 div h3 {
 	color: #171717;
@@ -26,12 +28,13 @@ div p {
 	font-size: 16px;
 	width: 463px;
 	height:385px;
+	padding-top: 60px;
 }
 .info {
 	color: #171717;
 	font-size: 16px;
-	width: 442px;
-	height: 21px;
+	width: 463px;
+	height: 99px;
 	margin-bottom: 22px;
 }
 span {
@@ -42,4 +45,5 @@ span {
 	margin-top: 400px;
 	width: 707px;
 	padding-right: 363px;
+	padding-bottom: 394px;
 }
