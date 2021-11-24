@@ -47,6 +47,16 @@ span {
 	padding-right: 363px;
 	padding-bottom: 394px;
 }
+p {
+	font-family: 'HelveticaNeue LT 55 Roman';
+}
+. info {
+	font-family: 'HelveticaNeue LT 55 Roman';
+}
+h3 {
+	font-family: 'HelveticaNeue';
+}
+=======
 .photo	{
 	display: inline-block;
 	width: 707px;
