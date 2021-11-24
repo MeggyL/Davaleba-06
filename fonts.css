@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HelveticaNeue LT 55 Roman';
+    src: url('../fonts/HelveticaNeueLT-Roman.woff2') format('woff2'),
+        url('../fonts/HelveticaNeueLT-Roman.woff') format('woff'),
+        url('../fonts/HelveticaNeueLT-Roman.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
