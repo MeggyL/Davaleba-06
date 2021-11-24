@@ -50,7 +50,7 @@ span {
 p {
 	font-family: 'HelveticaNeue LT 55 Roman';
 }
-. info {
+.info {
 	font-family: 'HelveticaNeue LT 55 Roman';
 }
 h3 {
@@ -80,5 +80,5 @@ div h3 {
 .text p {
 	color: #171717;
 	font-size: 16px;
-  font-family: 'HelveticaNeue LT 55 Roman';
-}
+ 	font-family: 'HelveticaNeue LT 55 Roman';
+ }
